@@ -1,0 +1,11 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "test.brd" as of: 15/10/22 20.45
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+IC1,Top,1.250,2.900,0
+U$2,Top,2.050,1.100,0
+U$3,Top,2.700,2.300,0
